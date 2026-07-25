@@ -114,6 +114,30 @@ Chaque dossier possède une responsabilité unique afin de maintenir une organis
 
 ---
 
+# Hiérarchie de développement
+
+```text
+                 Vision
+                    │
+                 Mission
+                    │
+                Stratégie
+                    │
+                Roadmap
+                    │
+                 Épics
+                    │
+               Fonctionnalités
+                    │
+                 User Stories
+                    │
+                   Tâches
+                    │
+                   Code
+```
+
+---
+
 # Cycle de développement
 
 Chaque fonctionnalité suit le même processus.
