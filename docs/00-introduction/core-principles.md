@@ -12,6 +12,18 @@ depends_on:
 used_by:
   - All AI Roles
 last_updated: 2026-07-25
+tags:
+  - architecture
+  - frontend
+  - security
+priority: high
+domain:
+  - immobilier
+roles:
+  - architect
+  - backend
+dependencies:
+  - ART-003
 ---
 
 # ART-004 — Core Principles
