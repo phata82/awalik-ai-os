@@ -1,3 +1,17 @@
+---
+id: ART-002
+title: Constitution
+version: 1.0.0
+status: Approved
+owner: CTO
+classification: Internal
+depends_on:
+  - ART-001
+used_by:
+  - All AI Roles
+last_updated: 2026-07-25
+---
+
 # ART-002 — Constitution d'Awalik AI-OS
 
 **Version :** 1.0.0
